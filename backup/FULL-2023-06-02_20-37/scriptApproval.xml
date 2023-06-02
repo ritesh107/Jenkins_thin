@@ -1,0 +1,28 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<scriptApproval plugin="script-security@1244.ve463715a_f89c">
+  <approvedScriptHashes>
+    <string>SHA512:093b41deab95ab8c3ccd67c97e9b62dab8fb5ee923c292ed34e2d87af03c42a44bfba211f12c5344444395c8fe85a5601ffd5a1b156f62b315ec6c1bed1a7c33</string>
+    <string>SHA512:22ec9843078a96dea9454acf41f7195a08f3e999bb6bdaa6d9c7def5c0757030d725cb4450f6a02b4650ba6fabab7b98a3ddb3f66ccfb36527796e17e7e1594d</string>
+    <string>SHA512:24318ff7966c1c00eb2c28c7326265c2e48322749eeb46fb43de2769d3b1bd8cc355436131d918da121844114544a604467e988dacdda6fff7f90279c9c42ca3</string>
+    <string>SHA512:83c955d3fd047057a2036ef698c7868716589916a2f280a82d57193db894a05d7e4cf29f0cc5a1fb8e499d5766ae11ad136a948f74a88fa8a3f64a5ccf3920da</string>
+    <string>SHA512:867e7ec3702498095f0282c9b2c9eb84c08320d3ef597c7ea765d4c0f9c0d7c4f64f1995ed19b2c717ba46a16445db3e5cddf9b48815c26349cc6ba0471d2fdd</string>
+    <string>SHA512:87f0125f2d4af0a38707741dce11196afe7f5d8db88120b982d905944db29bfd52cbfa0515ea6870f94afd7be8b5b34b2ffa8585ecfa00feae1533fb8cb5a2ad</string>
+    <string>SHA512:90636986a4599041ee7ef25c89aa47daddbb1791adf8c758798cb94cd113a0ef9252b611b0d7104a6a5b61d4c8c00d7c4665bb68781d16c6eb1a430c96d98153</string>
+    <string>SHA512:ab71f9dcb3031838b3470bfa9ffc3d0bf057929ae830d945448701f349dc7dace558f196396c968c2b65b496bf7d07ee4376e2f25c2ace21d95cab8ea96038c7</string>
+    <string>SHA512:dba41bdbf7679eb3ae2401e4e889b7bd31c161077e9a684c5f7262b6763a9df329d56072f7aff57f28484a76cd05ea60ec51c97cee5090e1484bd14a365bf6d1</string>
+  </approvedScriptHashes>
+  <approvedSignatures/>
+  <aclApprovedSignatures/>
+  <approvedClasspathEntries/>
+  <pendingScripts>
+    <pendingScript>
+      <context>
+        <user>ritesh</user>
+      </context>
+      <script></script>
+      <language>groovy</language>
+    </pendingScript>
+  </pendingScripts>
+  <pendingSignatures/>
+  <pendingClasspathEntries/>
+</scriptApproval>
