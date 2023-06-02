@@ -1,5 +1,0 @@
-<?xml version='1.1' encoding='UTF-8'?>
-<io.jenkins.plugins.gcr.PluginConfiguration_-PluginConfigurationDescriptor plugin="github-coverage-reporter@1.10">
-  <githubAccessToken>{AQAAABAAAAAQhs5lUusniK49kKaJZrmGVJ4WKaArCwSyDVQd/ocJloE=}</githubAccessToken>
-  <githubEnterpriseUrl></githubEnterpriseUrl>
-</io.jenkins.plugins.gcr.PluginConfiguration_-PluginConfigurationDescriptor>
